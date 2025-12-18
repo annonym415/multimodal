@@ -44,7 +44,7 @@ A typical layout is:
 ├── iStructTab/
 │   ├── __init__.py
 │   ├── iStructTab.py              # GEDS + OEMT (default)
-├── iStructTab Demo.ipynb  # example demo on HAM10000
+├── HAM_iStructTab.ipynb  # example on HAM10000
 ├── requirements.txt
 └── README.md
 
